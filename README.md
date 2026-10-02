@@ -65,12 +65,12 @@ private void index(){
 ![NKUST](nkust.png "高科大")
 ---
 ## 八、表格
-| Left-Aligned | Center Aligned | Right Aligned |
-|:------------ |:--------------:|--------------:|
-| col 3 is     | some wordy text|          $1600|
-| col 2 is     |centered        |            $12|
-| zebra stripes|are neat        |             $1|
-| test         |測試            |          $3333|
+|Left-Aligned|Center Aligned|Right Aligned|
+|:--- |:---:|---:|
+|col 3 is|some wordy text|$1600|
+|col 2 is|centered|$12|
+|zebra stripes|are neat|$1|
+|test|測試|$3333|
 ---
 ## 九、(可選) 嵌入影片
 [![推薦歌曲：艾薇 ft.吳霏-我受夠了](圖片.png)](https://www.youtube.com/watch?v=PGIbiZNXIks&list=RDPGIbiZNXIks&start_radio=1 "艾薇 ft.吳霏-我受夠了")
