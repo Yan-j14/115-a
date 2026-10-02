@@ -62,4 +62,4 @@ private void index(){
 }
 ```
 ![NKUST](nkust.png "高科大")
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[推薦歌曲：艾薇 ft.吳霏-我受夠了](https://www.youtube.com/watch?v=PGIbiZNXIks&list=RDPGIbiZNXIks&start_radio=1 "艾薇 ft.吳霏-我受夠了")
