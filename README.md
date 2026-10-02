@@ -1,18 +1,18 @@
-# 115-a
+# H1
 
-## 115-a
+## H2
 
-### 115-a
+### H3
 
-#### 115-a
+#### H4
 
-##### 115-a
+##### H5
 
-###### 115-a
+###### H6
 
-`This is book`
+`小區塊`
 ```
-This is book
+大區塊
 ```
 
 >新北市
@@ -25,6 +25,20 @@ This is book
 >>
 >>龜山鎮
 
+* Red
++ Green
+- Blue
+
+1. Bird
+2. McHaie
+3. Parish
+***
+[高科大官網](https://www.nkust.edu.tw/)
+<https://www.nkust.edu.tw/>
+---
+[GIT分支](/chapter_3_branch/git.html)
+___
+**粗體** *斜體* ~~刪除線~~
 | Left-Aligned | Center Aligned | Right Aligned |
 |:------------ |:--------------:|--------------:|
 | col 3 is     | some wordy text|          $1600|
@@ -33,4 +47,17 @@ This is book
 | test         |測試            |          $3333|
 ```js
 $scope.cookieGet=function(key){
-   
+   $scope.cookieResult = $cookieStore.get(key);
+   console.log($scope.cookieResult);
+}
+```
+```ruby
+def index
+puts "hello world"
+end
+```
+```csharp
+private void index(){
+   MessageBox.Show("hello world");
+}
+```
