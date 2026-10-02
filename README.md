@@ -72,5 +72,5 @@ private void index(){
 |zebra stripes|are neat|$1|
 |test|測試|$3333|
 ---
-## 九、(可選) 嵌入影片
+## 九、嵌入影片
 [![推薦歌曲：艾薇 ft.吳霏-我受夠了](圖片.png)](https://www.youtube.com/watch?v=PGIbiZNXIks&list=RDPGIbiZNXIks&start_radio=1 "艾薇 ft.吳霏-我受夠了")
